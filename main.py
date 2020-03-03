@@ -1,2 +1,7 @@
-#Black Magic the game written by Travis Pressler and Alexander Pressler
-print("Paul Benois")
+import pygame
+
+def main():
+    pygame.init():
+
+if __name__=="__main__"
+    main()
