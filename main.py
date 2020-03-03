@@ -3,7 +3,7 @@ import pygame
 def main():
     pygame.init()
 
-    screen = pygame.display.set_mode((240,180))
+    screen = pygame.display.set_mode(size=(640, 300))
 
     # define a variable to control the main loop
     running = True
